@@ -5,7 +5,7 @@
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p,
 [epub|type~="z3998:song"] p{
- 	text-align: initial;
+	text-align: initial;
 	text-indent: 0;
 }
 
