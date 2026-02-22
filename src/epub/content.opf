@@ -42,7 +42,10 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/25547</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<!-- Scan, Volume 1 -->
+		<dc:source>https://archive.org/details/sunderingflood01morruoft</dc:source>
+		<!-- Scan, Volume 2 -->
+		<dc:source>https://archive.org/details/sunderingflood02morruoft</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sundering_Flood</meta>
